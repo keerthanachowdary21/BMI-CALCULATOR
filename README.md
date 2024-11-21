@@ -16,6 +16,6 @@ A responsive **Body Mass Index (BMI)** calculator built with React.js. This appl
 
 ## How to Use
 - Launch the application.
-- Use the + and - buttons to adjust your height (cm) and weight (kg).
+- Use the **+** and **-** buttons to adjust your height (cm) and weight (kg).
 - View the calculated BMI in the result area.
 - The app will remember your height and weight for future visits.
